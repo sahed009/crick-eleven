@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "role": "All-Rounder",
+    "rating": 9.8,
+    "price": 1500000,
+    "image": "https://i.ibb.co.com/6Ny4fpj/IMAGE-1670670800.jpg",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 2,
+    "name": "Joe Root",
+    "country": "England",
+    "role": "Batsman",
+    "rating": 9.2,
+    "price": 1300000,
+    "image": "https://i.ibb.co.com/7zfnxq6/Joe-root-pic.webp",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Offspin"
+  },
+  {
+    "id": 3,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "role": "Batsman",
+    "rating": 9.5,
+    "price": 1400000,
+    "image": "https://i.ibb.co.com/zGSLc1d/kane.webp",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Offspin"
+  },
+  {
+    "id": 4,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "role": "Bowler",
+    "rating": 9.7,
+    "price": 1200000,
+    "image": "https://i.ibb.co.com/sCpXjMV/rashid.jpg",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Legbreak Googly"
+  },
+  {
+    "id": 5,
+    "name": "AB de Villiers",
+    "country": "South Africa",
+    "role": "Wicketkeeper",
+    "rating": 9.6,
+    "price": 1350000,
+    "image": "https://i.ibb.co.com/hyc5R8n/de-villiers.jpg",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 6,
+    "name": "Ben Stokes",
+    "country": "England",
+    "role": "All-Rounder",
+    "rating": 9.4,
+    "price": 1500000,
+    "image": "https://i.ibb.co.com/BCSLTxF/Ben-Stokes-4.jpg",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Right-Arm Fast"
+  },
+  {
+    "id": 7,
+    "name": "Steve Smith",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": 9.3,
+    "price": 1320000,
+    "image": "https://i.ibb.co.com/VS3yvkq/steve-smith-cricket-c3f42cfed.jpg",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Legbreak"
+  },
+  {
+    "id": 8,
+    "name": "David Warner",
+    "country": "Australia",
+    "role": "Batsman",
+    "rating": 9.1,
+    "price": 1250000,
+    "image": "https://i.ibb.co.com/Mgxbxf3/01011-pti01-01-2024-000102b.jpg",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "N/A"
+  },
+  {
+    "id": 9,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "role": "Bowler",
+    "rating": 9.0,
+    "price": 1280000,
+    "image": "https://i.ibb.co.com/KsmLwQn/498527-pat-cummins-2023-cricket-world-cup1699000014.webp",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Right-Arm Fast"
+  },
+  {
+    "id": 10,
+    "name": "Trent Boult",
+    "country": "New Zealand",
+    "role": "Bowler",
+    "rating": 8.9,
+    "price": 1190000,
+    "image": "https://i.ibb.co.com/Z1DG34B/pki5xe1ulkbpxurjcyhc.jpg",
+    "batting_style": "Right-Hand Bat",
+    "bowling_style": "Left-Arm Fast"
+  },
+  {
+    "id": 11,
+    "name": "Shakib Al Hasan",
+    "country": "Bangladesh",
+    "role": "All-Rounder",
+    "rating": 9.8,
+    "price": 1500000,
+    "image": "https://i.ibb.co.com/C6FFvnJ/smartcrop.jpg",
+    "batting_style": "Left-Hand Bat",
+    "bowling_style": "Slow Left-Arm Orthodox"
+  }
+]  
